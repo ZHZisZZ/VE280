@@ -1,0 +1,160 @@
+159
+ProgramNode 1
+DeclListNode 7
+VarDeclNode 2
+VarDeclNode 2
+VarDeclNode 2
+FnDeclNode 4
+VarDeclNode 2
+VarDeclNode 2
+VarDeclNode 2
+IntNode 0
+IdNode 0 xyR
+BoolNode 0
+IdNode 0 TMzEAv2a
+VoidNode 0
+IdNode 0 0R
+IntNode 0
+IdNode 0 as2rYThTj
+FormalsListNode 7
+FnBodyNode 2
+BoolNode 0
+IdNode 0 Qe6a
+VoidNode 0
+IdNode 0 M
+VoidNode 0
+IdNode 0 H4Q6
+FormalDeclNode 2
+FormalDeclNode 2
+FormalDeclNode 2
+FormalDeclNode 2
+FormalDeclNode 2
+FormalDeclNode 2
+FormalDeclNode 2
+DeclListNode 2
+StmtListNode 3
+IntNode 0
+IdNode 0 iuVP
+IntNode 0
+IdNode 0 spQM
+IntNode 0
+IdNode 0 5GRNsZu
+BoolNode 0
+IdNode 0 0qw
+IntNode 0
+IdNode 0 Lvjgb2xR
+BoolNode 0
+IdNode 0 PYu
+IntNode 0
+IdNode 0 r8A1cajOIB
+VarDeclNode 2
+FnDeclNode 4
+PostDecStmtNode 1
+AssignStmtNode 1
+PostDecStmtNode 1
+IntNode 0
+IdNode 0 wW
+BoolNode 0
+IdNode 0 V
+FormalsListNode 6
+FnBodyNode 2
+IntLitNode 0 -9
+AssignNode 2
+TrueNode 0
+FormalDeclNode 2
+FormalDeclNode 2
+FormalDeclNode 2
+FormalDeclNode 2
+FormalDeclNode 2
+FormalDeclNode 2
+DeclListNode 6
+StmtListNode 5
+IntLitNode 0 4
+TrueNode 0
+BoolNode 0
+IdNode 0 pSFyoFJwP1
+IntNode 0
+IdNode 0 V1
+BoolNode 0
+IdNode 0 0zw4I3
+IntNode 0
+IdNode 0 DGsEbydoJ
+BoolNode 0
+IdNode 0 TB1JJ
+BoolNode 0
+IdNode 0 bMe0MRV
+VarDeclNode 2
+VarDeclNode 2
+FnDeclNode 4
+VarDeclNode 2
+VarDeclNode 2
+VarDeclNode 2
+PostIncStmtNode 1
+PostIncStmtNode 1
+PostIncStmtNode 1
+PostIncStmtNode 1
+PostDecStmtNode 1
+IntNode 0
+IdNode 0 A
+BoolNode 0
+IdNode 0 r28
+IntNode 0
+IdNode 0 tTo53sM
+FormalsListNode 7
+FnBodyNode 2
+BoolNode 0
+IdNode 0 tMKxUDW
+IntNode 0
+IdNode 0 eN2Tj3
+IntNode 0
+IdNode 0 Fijj
+TrueNode 0
+IntLitNode 0 -3
+IdNode 0 ycMNU8
+AssignNode 2
+TrueNode 0
+FormalDeclNode 2
+FormalDeclNode 2
+FormalDeclNode 2
+FormalDeclNode 2
+FormalDeclNode 2
+FormalDeclNode 2
+FormalDeclNode 2
+DeclListNode 0
+StmtListNode 8
+IdNode 0 nuI
+FalseNode 0
+IntNode 0
+IdNode 0 rWrTluxj
+BoolNode 0
+IdNode 0 U
+IntNode 0
+IdNode 0 kywpl0VkJ3
+BoolNode 0
+IdNode 0 63
+VoidNode 0
+IdNode 0 S5e2mAX4i4
+VoidNode 0
+IdNode 0 hvtBeMf4
+VoidNode 0
+IdNode 0 BCc8MxEdeR
+PostDecStmtNode 1
+PostIncStmtNode 1
+PostIncStmtNode 1
+PostDecStmtNode 1
+PostDecStmtNode 1
+PostIncStmtNode 1
+PostIncStmtNode 1
+AssignStmtNode 1
+IntLitNode 0 5
+TrueNode 0
+FalseNode 0
+IdNode 0 6Io8ICX
+TrueNode 0
+FalseNode 0
+AssignNode 2
+AssignNode 2
+IntLitNode 0 9
+IntLitNode 0 -6
+IdNode 0 YsIZ
+TrueNode 0

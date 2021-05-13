@@ -1,0 +1,5 @@
+/Users/zhanhuizhou/Desktop/p5/cases/build/CMakeFiles/rebuild_cache.dir
+/Users/zhanhuizhou/Desktop/p5/cases/build/CMakeFiles/edit_cache.dir
+/Users/zhanhuizhou/Desktop/p5/cases/build/CMakeFiles/cache.dir
+/Users/zhanhuizhou/Desktop/p5/cases/build/CMakeFiles/dlist.dir
+/Users/zhanhuizhou/Desktop/p5/cases/build/CMakeFiles/rpn.dir

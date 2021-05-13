@@ -1,0 +1,177 @@
+
+newDlist
+isEmpty 0
+insertBack 0 7
+insertBack 0 0
+insertBack 0 5
+insertBack 0 9
+insertFront 0 9
+insertFront 0 9
+insertFront 0 8
+insertFront 0 5
+insertFront 0 4
+insertFront 0 9
+insertFront 0 9
+insertBack 0 4
+insertFront 0 5
+isEmpty 0
+removeFront 0
+removeBack 0
+newDlist
+isEmpty 1
+insertBack 1 7
+insertBack 1 5
+insertBack 1 0
+insertBack 1 9
+insertBack 1 7
+insertBack 1 2
+insertBack 1 7
+insertBack 1 5
+insertBack 1 2
+insertFront 1 2
+insertFront 1 0
+insertFront 1 1
+insertFront 1 7
+insertFront 1 8
+insertFront 1 2
+insertFront 1 0
+insertFront 1 7
+insertBack 1 7
+insertFront 1 9
+isEmpty 1
+removeFront 1
+removeBack 1
+newDlist
+isEmpty 2
+insertBack 2 6
+insertBack 2 2
+insertBack 2 2
+insertBack 2 0
+insertBack 2 9
+insertBack 2 0
+insertBack 2 3
+insertBack 2 1
+insertFront 2 7
+insertFront 2 4
+insertFront 2 0
+insertFront 2 5
+insertFront 2 1
+insertFront 2 4
+insertFront 2 7
+insertFront 2 7
+insertFront 2 1
+insertFront 2 9
+insertFront 2 3
+insertBack 2 2
+insertFront 2 7
+isEmpty 2
+removeFront 2
+removeBack 2
+newDlist
+isEmpty 3
+insertBack 3 8
+insertBack 3 2
+insertBack 3 1
+insertBack 3 8
+insertBack 3 2
+insertBack 3 6
+insertBack 3 6
+insertBack 3 5
+insertBack 3 1
+insertBack 3 8
+insertBack 3 6
+insertBack 3 0
+insertBack 3 9
+insertFront 3 1
+insertFront 3 6
+insertFront 3 0
+insertFront 3 7
+insertFront 3 3
+insertFront 3 5
+insertFront 3 9
+insertBack 3 3
+insertFront 3 2
+isEmpty 3
+removeFront 3
+removeBack 3
+newDlist
+isEmpty 4
+insertBack 4 0
+insertBack 4 1
+insertBack 4 5
+insertBack 4 4
+insertBack 4 9
+insertBack 4 8
+insertBack 4 8
+insertBack 4 1
+insertBack 4 0
+insertBack 4 5
+insertBack 4 9
+insertBack 4 5
+insertBack 4 2
+insertBack 4 0
+insertBack 4 3
+insertBack 4 5
+removeFront 4
+removeFront 4
+removeFront 4
+removeFront 4
+removeFront 4
+removeFront 4
+removeFront 4
+removeFront 4
+removeFront 4
+removeFront 4
+removeFront 4
+removeFront 4
+removeFront 4
+removeFront 4
+removeFront 4
+removeFront 4
+isEmpty 4
+insertFront 4 3
+insertBack 4 0
+isEmpty 4
+removeFront 4
+removeFront 4
+isEmpty 4
+insertFront 4 5
+insertFront 4 6
+insertFront 4 0
+insertFront 4 8
+insertFront 4 9
+insertFront 4 0
+insertFront 4 8
+insertFront 4 7
+insertFront 4 9
+insertFront 4 7
+insertFront 4 9
+insertFront 4 0
+insertFront 4 3
+insertFront 4 4
+insertFront 4 4
+insertFront 4 8
+removeBack 4
+removeBack 4
+removeBack 4
+removeBack 4
+removeBack 4
+removeBack 4
+removeBack 4
+removeBack 4
+removeBack 4
+removeBack 4
+removeBack 4
+removeBack 4
+removeBack 4
+removeBack 4
+removeBack 4
+removeBack 4
+isEmpty 4
+insertFront 4 4
+insertBack 4 3
+isEmpty 4
+copyStack 0
+copyStack 1
+copyStack 2
+assignStack 3

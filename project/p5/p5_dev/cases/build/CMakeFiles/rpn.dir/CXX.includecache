@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/zhanhuizhou/Desktop/p5/cases/dlist.h
+dlist_impl.h
+/Users/zhanhuizhou/Desktop/p5/cases/dlist_impl.h
+
+/Users/zhanhuizhou/Desktop/p5/cases/dlist_impl.h
+dlist.h
+/Users/zhanhuizhou/Desktop/p5/cases/dlist.h
+
+/Users/zhanhuizhou/Desktop/p5/cases/rpn.cpp
+iostream
+-
+sstream
+-
+dlist.h
+/Users/zhanhuizhou/Desktop/p5/cases/dlist.h
+string
+-
+

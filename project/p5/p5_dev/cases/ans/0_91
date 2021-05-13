@@ -1,0 +1,164 @@
+newDlist
+isEmpty 0
+1
+insertBack 0 8
+insertBack 0 9
+insertBack 0 7
+insertBack 0 0
+insertBack 0 9
+insertBack 0 7
+insertBack 0 6
+insertBack 0 5
+insertBack 0 8
+insertBack 0 0
+insertBack 0 8
+insertBack 0 7
+insertFront 0 8
+insertFront 0 4
+insertFront 0 6
+insertFront 0 6
+insertFront 0 3
+insertBack 0 8
+insertFront 0 4
+isEmpty 0
+0
+removeFront 0
+4
+removeBack 0
+newDlist
+isEmpty 1
+1
+insertBack 1 4
+insertBack 1 9
+insertBack 1 2
+insertBack 1 2
+insertBack 1 8
+insertBack 1 8
+insertBack 1 1
+insertBack 1 9
+insertFront 1 1
+insertFront 1 8
+insertFront 1 8
+insertFront 1 8
+insertFront 1 6
+insertFront 1 6
+insertBack 1 7
+insertFront 1 2
+isEmpty 1
+0
+removeFront 1
+2
+removeBack 1
+newDlist
+isEmpty 2
+1
+insertBack 2 8
+insertBack 2 4
+insertBack 2 7
+insertBack 2 1
+insertBack 2 0
+insertBack 2 8
+insertBack 2 1
+insertBack 2 0
+insertBack 2 5
+insertBack 2 0
+insertBack 2 0
+insertBack 2 2
+insertBack 2 7
+insertBack 2 0
+insertBack 2 8
+insertBack 2 5
+insertBack 2 4
+insertBack 2 4
+removeFront 2
+8
+removeFront 2
+4
+removeFront 2
+7
+removeFront 2
+1
+removeFront 2
+0
+removeFront 2
+8
+removeFront 2
+1
+removeFront 2
+0
+removeFront 2
+5
+removeFront 2
+0
+removeFront 2
+0
+removeFront 2
+2
+removeFront 2
+7
+removeFront 2
+0
+removeFront 2
+8
+removeFront 2
+5
+removeFront 2
+4
+removeFront 2
+4
+isEmpty 2
+1
+insertFront 2 0
+insertBack 2 3
+isEmpty 2
+0
+removeFront 2
+0
+removeFront 2
+3
+isEmpty 2
+1
+insertFront 2 6
+insertFront 2 5
+insertFront 2 2
+insertFront 2 9
+insertFront 2 8
+insertFront 2 4
+insertFront 2 5
+insertFront 2 0
+insertFront 2 7
+insertFront 2 4
+insertFront 2 2
+insertFront 2 2
+insertFront 2 9
+insertFront 2 0
+insertFront 2 2
+insertFront 2 3
+insertFront 2 6
+insertFront 2 0
+removeBack 2
+removeBack 2
+removeBack 2
+removeBack 2
+removeBack 2
+removeBack 2
+removeBack 2
+removeBack 2
+removeBack 2
+removeBack 2
+removeBack 2
+removeBack 2
+removeBack 2
+removeBack 2
+removeBack 2
+removeBack 2
+removeBack 2
+removeBack 2
+isEmpty 2
+0
+insertFront 2 2
+insertBack 2 6
+isEmpty 2
+0
+assignStack 0
+assignStack 1

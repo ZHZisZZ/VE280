@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/zhanhuizhou/Desktop/p5/cases/g3.cpp
+algorithm
+-
+iostream
+-
+random
+-
+string
+-
+vector
+-
+

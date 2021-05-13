@@ -1,0 +1,150 @@
+
+newDlist
+isEmpty 0
+insertBack 0 7
+insertBack 0 9
+insertBack 0 4
+insertBack 0 5
+insertBack 0 6
+insertBack 0 4
+insertBack 0 9
+insertBack 0 5
+insertBack 0 7
+insertBack 0 9
+insertFront 0 5
+insertFront 0 0
+insertFront 0 4
+insertFront 0 9
+insertFront 0 8
+insertBack 0 0
+insertFront 0 4
+isEmpty 0
+removeFront 0
+removeBack 0
+newDlist
+isEmpty 1
+insertBack 1 6
+insertBack 1 7
+insertBack 1 8
+insertBack 1 3
+insertFront 1 0
+insertFront 1 7
+insertFront 1 0
+insertFront 1 7
+insertFront 1 1
+insertFront 1 3
+insertFront 1 2
+insertFront 1 9
+insertFront 1 9
+insertFront 1 7
+insertBack 1 6
+insertFront 1 3
+isEmpty 1
+removeFront 1
+removeBack 1
+newDlist
+isEmpty 2
+insertBack 2 5
+insertBack 2 4
+insertBack 2 2
+insertBack 2 6
+insertBack 2 5
+insertBack 2 6
+insertBack 2 4
+insertFront 2 2
+insertFront 2 5
+insertFront 2 9
+insertFront 2 1
+insertFront 2 6
+insertFront 2 8
+insertBack 2 6
+insertFront 2 3
+isEmpty 2
+removeFront 2
+removeBack 2
+newDlist
+isEmpty 3
+insertBack 3 9
+insertBack 3 5
+insertBack 3 4
+insertBack 3 6
+insertBack 3 1
+insertBack 3 0
+insertBack 3 7
+insertBack 3 3
+insertFront 3 9
+insertFront 3 5
+insertFront 3 0
+insertFront 3 9
+insertFront 3 0
+insertFront 3 6
+insertBack 3 3
+insertFront 3 9
+isEmpty 3
+removeFront 3
+removeBack 3
+newDlist
+isEmpty 4
+insertBack 4 0
+insertBack 4 6
+insertBack 4 2
+insertBack 4 5
+insertBack 4 5
+insertBack 4 1
+insertBack 4 0
+insertBack 4 7
+insertBack 4 1
+insertBack 4 0
+insertBack 4 3
+insertBack 4 1
+removeFront 4
+removeFront 4
+removeFront 4
+removeFront 4
+removeFront 4
+removeFront 4
+removeFront 4
+removeFront 4
+removeFront 4
+removeFront 4
+removeFront 4
+removeFront 4
+isEmpty 4
+insertFront 4 1
+insertBack 4 6
+isEmpty 4
+removeFront 4
+removeFront 4
+isEmpty 4
+insertFront 4 5
+insertFront 4 1
+insertFront 4 3
+insertFront 4 8
+insertFront 4 6
+insertFront 4 4
+insertFront 4 8
+insertFront 4 6
+insertFront 4 4
+insertFront 4 2
+insertFront 4 9
+insertFront 4 7
+removeBack 4
+removeBack 4
+removeBack 4
+removeBack 4
+removeBack 4
+removeBack 4
+removeBack 4
+removeBack 4
+removeBack 4
+removeBack 4
+removeBack 4
+removeBack 4
+isEmpty 4
+insertFront 4 0
+insertBack 4 0
+isEmpty 4
+assignStack 0
+assignStack 1
+assignStack 2
+assignStack 3
